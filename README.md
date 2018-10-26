@@ -12,6 +12,8 @@ Class Names - Metal, Plastic, Glass, Paper
 
 Implementation Video - https://www.youtube.com/watch?v=RjB2AAkHBlY
 
+Research Paper Link - https://www.irjet.net/archives/V5/i4/IRJET-V5I4756.pdf
+
 In order to reduce time for training, CUDA was used. The GPU used was Nvidia GTX 1050 Ti.
 
 In this repository, both codes for Tensorflow and Keras has been included. Keras showed better results than Tensorflow and hence Keras was used to train our classifier.
